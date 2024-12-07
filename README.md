@@ -1,5 +1,8 @@
 # React + Vite
 
+About
+I have build a Employee Management System which is a fully functional website UI and use localStorage for data persistence
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
